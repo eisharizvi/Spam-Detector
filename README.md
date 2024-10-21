@@ -1,4 +1,4 @@
-# CSCI2020U Assignment 1
+# Spam Detector
 
 Follow this guide to help  navigating how to use our Spam Detector Application.
 
@@ -12,7 +12,7 @@ frequency to classify new emails as spam or legitimate.
 
 ![](pics/image.webp)
 
-### Group Members
+### Team Members
 
 Our group consists of four members.
 - Eisha Rizvi
